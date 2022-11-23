@@ -1,3 +1,13 @@
+/**
+ * @file solution.cpp
+ * @author HeXCZ1028 (heisright@163.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-11-19
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include<vector>
 #include<algorithm>
 using namespace std;
