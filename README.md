@@ -10,3 +10,4 @@ leetcodeDaily
 | 2022-11-27 | weekly-contest-321 | [weekly-contest-321](https://leetcode.cn/contest/weekly-contest-321/) | |[C++](./src/weekly-contest-321/solution.cpp) | |
 | 2022-11-29 | 1758 | [minimum-changes-to-make-alternating-binary-string](https://leetcode.cn/problems/minimum-changes-to-make-alternating-binary-string/) | Easy | [C++](./src/1758/solution.cpp) | | 
 | 2022-12-26 | weekly-contest-325 | [weekly-contest-325](https://leetcode.cn/contest/weekly-contest-325/) | |[C++](./src/weekly-contest-325/solution.cpp) | |
+| 2023-01-01 | weekly-contest-326 | [weekly-contest-326](https://leetcode.cn/contest/weekly-contest-326/) | |[C++](./src/weekly-contest-326/solution.cpp) | |
