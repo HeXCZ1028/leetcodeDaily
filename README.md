@@ -14,3 +14,4 @@ leetcodeDaily
 | 2023-01-08 | weekly-contest-327 | [weekly-contest-327](https://leetcode.cn/contest/weekly-contest-327/) | |[C++](./src/weekly-contest-327/solution.cpp) | 2 题 |
 | 2023-01-05 | weekly-contest-328 | [weekly-contest-328](https://leetcode.cn/contest/weekly-contest-328/) | |[C++](./src/weekly-contest-328/solution.cpp) | 1 题 |
 | 2023-03-20 | weekly-contest-337 | [weekly-contest-337](https://leetcode.cn/contest/weekly-contest-337/) | |[C++](./src/weekly-contest-337/solution.cpp) [Java](./src/weekly-contest-337/solution.cpp)| |
+| 2023-03-20 | weekly-contest-338 | [weekly-contest-338](https://leetcode.cn/contest/weekly-contest-338/) | |[C++](./src/weekly-contest-338/solution.cpp) [Java](./src/weekly-contest-338/solution.java)| |
