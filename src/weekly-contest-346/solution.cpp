@@ -3,6 +3,7 @@
 #include <unordered_map>
 #include<set>
 #include <map>
+#include <stack>
 
 using namespace std;
 
@@ -42,6 +43,29 @@ public:
            return false;
        }
    }
+
+   // 使用stack优化，模板代码
+   int minLength(string s) {
+        stack<char> st;
+
+        for (int i = 0; i < s.size(); i++) {
+            if (st.size() > 0) {
+                if (st.top() == 'A' && s[i] == 'B') {
+                    st.pop();
+                }
+                else if (st.top() == 'C' && s[i] == 'D') {
+                    st.pop();
+                }
+                else {
+                    st.push(s[i]);
+                }
+            }
+            else {
+                st.push(s[i]);
+            }
+        }
+        return st.size();
+    }
 };
 
 // 简单模拟
