@@ -18,3 +18,4 @@ leetcodeDaily
 | 2023-05-07 | weekly-contest-344 | [weekly-contest-344](https://leetcode.cn/contest/weekly-contest-344/) | |[C++](./src/weekly-contest-344/solution.cpp)|
 | 2023-05-21 | weekly-contest-346 | [weekly-contest-346](https://leetcode.cn/contest/weekly-contest-346/) | |[C++](./src/weekly-contest-346/solution.cpp)|
 | 2023-08-14 | weekly-contest-357 | [weekly-contest-357](https://leetcode.cn/contest/weekly-contest-357/) | |[C++](./src/weekly-contest-357/solution.cpp)|
+| 2023-08-14 | weekly-contest-360 | [weekly-contest-360](https://leetcode.cn/contest/weekly-contest-360/) | |[C++](./src/weekly-contest-360/solution.cpp)| 2题 |
